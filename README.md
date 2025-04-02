@@ -1,9 +1,5 @@
 # Hello, I'm Katleho ✨
 
-🧠 Computer Science and Economics student at NWU<b/>
-🕴️  Tech Entrepreneur<b/>
-📌 I create themed websites for environmental projects<b/>
-
 # 💫 About Me:
 🔭 I’m currently working on a Renewable Energy Managment System for Microgrids<br>🌱 I’m currently learning AI Agents and Quantum Computing<br>⚡ I'm a Tech entrepreneur in the Commerce Industry
 
